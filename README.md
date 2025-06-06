@@ -2,5 +2,5 @@
 
 ## Informe sobre sistemas ERP y SAP
 
-Por :Por David Andres Solarte /
+Por : David Andres Solarte /
     Cristian Andres Martinez
